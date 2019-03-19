@@ -1,0 +1,7 @@
+---
+layout: slides
+---
+
+{% for post in site.posts reversed %}
+    {{ post.content | replace:'<fragment/>','<!-- .element: class="fragment" -->' | replace:'<background>','<!-- .slide: data-background="' | replace:'<background/>','" -->' }}
+{% endfor %}
