@@ -1,7 +1,6 @@
-<h1 align="left">
+<h1 align="center">
 <a target="_blank" href="">
-<img src="https://www.leadershiptriangle.com/wp-content/uploads/2017/10/LeadershipTriangle-Logo-OrangePurpleWhite-Stacked.png" width="40%" height="40%" alt="leadership">
-<img align="right" src="https://residentialliving.georgetown.edu/sites/studentliving/files/files/upload/entrepreneurship.png" width="22%" height="30%" alt="leadership">
+<img src="https://i2.wp.com/audiencealive.com/wp-content/uploads/2017/05/Brand-New-Presentation-Pricing.png?w=1080&ssl=1" width="20%" height="20%" alt="leadership">
 </a>
 </h1>
 
